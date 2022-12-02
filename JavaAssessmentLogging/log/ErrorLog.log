@@ -1,0 +1,6 @@
+02-Dec-2022 06:42:27 ERROR - User credentails Invalid
+02-Dec-2022 06:43:01 INFO - User Logged in successfully
+02-Dec-2022 07:05:42 ERROR - Service.INVALID_CREDENTIALS
+java.lang.Exception: Service.INVALID_CREDENTIALS
+	at com.java.loggingDemo.UserAuthentication.loginUser(UserAuthentication.java:12) [bin/:?]
+	at com.java.loggingDemo.LoggingDemo.main(LoggingDemo.java:8) [bin/:?]
