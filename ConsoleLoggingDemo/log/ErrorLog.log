@@ -1,0 +1,43 @@
+02-Dec-2022 07:20:03 ERROR - Service.INVALID_CREDENTIALS
+java.lang.Exception: Service.INVALID_CREDENTIALS
+	at com.java.consolelog.service.UserAuthentication.loginUser(UserAuthentication.java:12) [bin/:?]
+	at com.java.consolelog.ui.LoggingDemo.main(LoggingDemo.java:14) [bin/:?]
+02-Dec-2022 07:20:22 ERROR - Service.INVALID_CREDENTIALS
+java.lang.Exception: Service.INVALID_CREDENTIALS
+	at com.java.consolelog.service.UserAuthentication.loginUser(UserAuthentication.java:12) [bin/:?]
+	at com.java.consolelog.ui.LoggingDemo.main(LoggingDemo.java:14) [bin/:?]
+02-Dec-2022 07:21:16 ERROR - Service.INVALID_CREDENTIALS
+java.lang.Exception: Service.INVALID_CREDENTIALS
+	at com.java.consolelog.service.UserAuthentication.loginUser(UserAuthentication.java:12) [bin/:?]
+	at com.java.consolelog.ui.LoggingDemo.main(LoggingDemo.java:14) [bin/:?]
+02-Dec-2022 07:21:45 INFO - siva logged in successfully
+02-Dec-2022 07:26:36 ERROR - Service.INVALID_CREDENTIALS
+java.lang.Exception: Service.INVALID_CREDENTIALS
+	at com.java.consolelog.service.UserAuthentication.loginUser(UserAuthentication.java:12) [bin/:?]
+	at com.java.consolelog.ui.LoggingDemo.main(LoggingDemo.java:14) [bin/:?]
+02-Dec-2022 07:27:16 ERROR - Service.INVALID_CREDENTIALS
+java.lang.Exception: Service.INVALID_CREDENTIALS
+	at com.java.consolelog.service.UserAuthentication.loginUser(UserAuthentication.java:12) [bin/:?]
+	at com.java.consolelog.ui.LoggingDemo.main(LoggingDemo.java:14) [bin/:?]
+02-Dec-2022 07:28:17 ERROR - Service.INVALID_CREDENTIALS
+java.lang.Exception: Service.INVALID_CREDENTIALS
+	at com.java.consolelog.service.UserAuthentication.loginUser(UserAuthentication.java:12) [bin/:?]
+	at com.java.consolelog.ui.LoggingDemo.main(LoggingDemo.java:14) [bin/:?]
+02-Dec-2022 07:28:48 INFO - sasa logged in successfully
+02-Dec-2022 07:29:23 INFO - sasa logged in successfully
+02-Dec-2022 07:29:37 ERROR - Service.INVALID_CREDENTIALS
+java.lang.Exception: Service.INVALID_CREDENTIALS
+	at com.java.consolelog.service.UserAuthentication.loginUser(UserAuthentication.java:12) [bin/:?]
+	at com.java.consolelog.ui.LoggingDemo.main(LoggingDemo.java:14) [bin/:?]
+02-Dec-2022 07:30:01 ERROR - Service.INVALID_CREDENTIALS
+java.lang.Exception: Service.INVALID_CREDENTIALS
+	at com.java.consolelog.service.UserAuthentication.loginUser(UserAuthentication.java:12) [bin/:?]
+	at com.java.consolelog.ui.LoggingDemo.main(LoggingDemo.java:14) [bin/:?]
+02-Dec-2022 07:30:25 ERROR - Service.INVALID_CREDENTIALS
+java.lang.Exception: Service.INVALID_CREDENTIALS
+	at com.java.consolelog.service.UserAuthentication.loginUser(UserAuthentication.java:12) [bin/:?]
+	at com.java.consolelog.ui.LoggingDemo.main(LoggingDemo.java:14) [bin/:?]
+02-Dec-2022 07:32:32 ERROR - Service.INVALID_CREDENTIALS
+java.lang.Exception: Service.INVALID_CREDENTIALS
+	at com.java.consolelog.service.UserAuthentication.loginUser(UserAuthentication.java:12) [bin/:?]
+	at com.java.consolelog.ui.LoggingDemo.main(LoggingDemo.java:14) [bin/:?]
